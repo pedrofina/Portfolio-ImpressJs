@@ -3,14 +3,10 @@
     <img src="https://badges.aleen42.com/src/javascript.svg">
     <img src="https://badges.aleen42.com/src/html5.svg">
     <img src="https://badges.aleen42.com/src/css3.svg">
-    <div>
-        <img src="https://img.shields.io/github/license/Sobhan-SRZA/Portfolio-ImpressJs?label=License">
-        <img src="https://img.shields.io/github/last-commit/Sobhan-SRZA/Portfolio-ImpressJs?label=Last Commit">
-        <img src="https://img.shields.io/github/release-date/Sobhan-SRZA/Portfolio-ImpressJs?label=Last Release">
-    </div>
+    <img src="https://img.shields.io/github/license/Sobhan-SRZA/Portfolio-ImpressJs?label=License">
+    <img src="https://img.shields.io/github/last-commit/Sobhan-SRZA/Portfolio-ImpressJs?label=Last Commit">
     <img src="https://img.shields.io/github/languages/code-size/Sobhan-SRZA/Portfolio-ImpressJs?label=Code Size">
     <img src="https://img.shields.io/github/directory-file-count/Sobhan-SRZA/Portfolio-ImpressJs?label=Files">
-    <img src="https://img.shields.io/github/v/release/Sobhan-SRZA/Portfolio-ImpressJs?label=Version">
     <div>
         <img src="https://img.shields.io/github/forks/Sobhan-SRZA/Portfolio-ImpressJs?label=Forks">
         <img src="https://img.shields.io/github/stars/Sobhan-SRZA/Portfolio-ImpressJs?label=Stars">
