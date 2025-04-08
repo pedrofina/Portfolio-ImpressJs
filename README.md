@@ -1,5 +1,7 @@
+# Portfolio-ImpressJs
+A portfolio webpage powered by impress.js. (This web page is not good)
+
 <div align="center">
-    <h1>Simple Personal Website</h1>
     <img src="https://badges.aleen42.com/src/javascript.svg">
     <img src="https://badges.aleen42.com/src/html5.svg">
     <img src="https://badges.aleen42.com/src/css3.svg">
@@ -16,12 +18,6 @@
         <img style="display:block;margin-left:auto;margin-right:auto;width:30%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhan-SRZA&repo=Portfolio-ImpressJs&theme=react">
     </div>
 </div>
-
----
-
-# Portfolio-ImpressJs
-A portfolio webpage powered by impress.js. (This web page is not good)
-
 ---
 
 ## Contact
